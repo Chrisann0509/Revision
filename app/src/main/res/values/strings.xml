@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LastRevision</string>
+    <string-array name="institution">
+        <item>UTAR</item>
+        <item>TARC</item>
+        <item>INTI</item>
+
+    </string-array>
+</resources>

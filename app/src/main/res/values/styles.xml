@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="text_view_style">
+        <item name="android:layout_marginStart">@dimen/layout_margin16</item>
+        <item name="android:layout_marginTop">@dimen/layout_margin30</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
